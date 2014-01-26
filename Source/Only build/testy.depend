@@ -1,0 +1,449 @@
+# depslib dependency file v1.0
+1384443765 source:c:\users\nik\desktop\build - star - kopia\main.cpp
+	<iostream>
+	"SratsMain.hpp"
+	"SratsConsole.hpp"
+
+1384684226 c:\users\nik\desktop\build - star - kopia\sratsmain.hpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"SratsEvent.hpp"
+	"SratsGraph.hpp"
+	"GUI.hpp"
+
+1384687773 source:c:\users\nik\desktop\build - star - kopia\sratsmain.cpp
+	"SratsMain.hpp"
+
+1384681826 source:c:\users\nik\desktop\build - star - kopia\sratsgraph.cpp
+	"SratsGraph.hpp"
+
+1384681837 c:\users\nik\desktop\build - star - kopia\sratsgraph.hpp
+	<iostream>
+	<map>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"SratsConsole.hpp"
+
+1384443727 source:c:\users\nik\desktop\build - star - kopia\sratsevent.cpp
+	"SratsEvent.hpp"
+
+1384443764 c:\users\nik\desktop\build - star - kopia\sratsevent.hpp
+	<allegro5/allegro.h>
+	"SratsConsole.hpp"
+
+1384640717 source:c:\users\nik\desktop\build - star - kopia\sratsconsole.cpp
+	"SratsConsole.hpp"
+
+1384358746 c:\users\nik\desktop\build - star - kopia\sratsconsole.hpp
+	<string>
+	<windows.h>
+
+1384537728 source:c:\users\nik\desktop\build - star - kopia\sratsgalaxy.cpp
+	"SratsGalaxy.hpp"
+
+1384526812 c:\users\nik\desktop\build - star - kopia\sratsgalaxy.hpp
+
+1384623304 source:c:\users\nik\desktop\build - star - kopia\sratsgui.cpp
+	"SratsGUI.hpp"
+
+1384624011 c:\users\nik\desktop\build - star - kopia\sratsgui.hpp
+	<iostream>
+	"SratsGraph.hpp"
+
+1384687608 source:c:\users\nik\desktop\build - star - kopia\gui.cpp
+	"GUI.hpp"
+
+1384687791 c:\users\nik\desktop\build - star - kopia\gui.hpp
+	<iostream>
+	<map>
+	<string>
+	"SratsGraph.hpp"
+	"SratsEvent.hpp"
+
+1384687608 source:c:\users\nik\desktop\prj\build - star - kopia\gui.cpp
+	"GUI.hpp"
+
+1384687791 c:\users\nik\desktop\prj\build - star - kopia\gui.hpp
+	<iostream>
+	<map>
+	<string>
+	"SratsGraph.hpp"
+	"SratsEvent.hpp"
+
+1384681837 c:\users\nik\desktop\prj\build - star - kopia\sratsgraph.hpp
+	<iostream>
+	<map>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"SratsConsole.hpp"
+
+1384358746 c:\users\nik\desktop\prj\build - star - kopia\sratsconsole.hpp
+	<string>
+	<windows.h>
+
+1384443764 c:\users\nik\desktop\prj\build - star - kopia\sratsevent.hpp
+	<allegro5/allegro.h>
+	"SratsConsole.hpp"
+
+1384443765 source:c:\users\nik\desktop\prj\build - star - kopia\main.cpp
+	<iostream>
+	"SratsMain.hpp"
+	"SratsConsole.hpp"
+
+1385069127 c:\users\nik\desktop\prj\build - star - kopia\sratsmain.hpp
+	<iostream>
+	<stdlib.h>
+	<map>
+	<allegro5/allegro.h>
+	"SratsEvent.hpp"
+	"SratsGraph.hpp"
+	"GUI.hpp"
+	"Map.hpp"
+
+1384640717 source:c:\users\nik\desktop\prj\build - star - kopia\sratsconsole.cpp
+	"SratsConsole.hpp"
+
+1384443727 source:c:\users\nik\desktop\prj\build - star - kopia\sratsevent.cpp
+	"SratsEvent.hpp"
+
+1384537728 source:c:\users\nik\desktop\prj\build - star - kopia\sratsgalaxy.cpp
+	"SratsGalaxy.hpp"
+
+1384526812 c:\users\nik\desktop\prj\build - star - kopia\sratsgalaxy.hpp
+
+1384681826 source:c:\users\nik\desktop\prj\build - star - kopia\sratsgraph.cpp
+	"SratsGraph.hpp"
+
+1386951537 source:c:\users\nik\desktop\prj\build - star - kopia\map.cpp
+	"Map.hpp"
+
+1387005359 c:\users\nik\desktop\prj\build - star - kopia\map.hpp
+	<iostream>
+	<string>
+	"Object.hpp"
+	"ObjectWall.hpp"
+
+1384883776 source:c:\users\nik\desktop\prj\build - star - kopia\structur.cpp
+	"Structur.hpp"
+
+1384890248 c:\users\nik\desktop\prj\build - star - kopia\structur.hpp
+
+1385160834 source:c:\users\nik\desktop\prj\build - star - kopia\sratsmain.cpp
+	"SratsMain.hpp"
+
+1389556162 source:c:\users\nik\desktop\prj\build - star - kopia\application.cpp
+	<iostream>
+	"Engine.hpp"
+	"Console.hpp"
+
+1389560151 c:\users\nik\desktop\prj\build - star - kopia\engine.hpp
+	<iostream>
+	<stdlib.h>
+	<map>
+	<vector>
+	<allegro5/allegro.h>
+	"Event.hpp"
+	"Graph.hpp"
+	"Console.hpp"
+	"Section.hpp"
+
+1386619159 c:\users\nik\desktop\prj\build - star - kopia\event.hpp
+	<allegro5/allegro.h>
+	"Console.hpp"
+
+1386617343 c:\users\nik\desktop\prj\build - star - kopia\console.hpp
+	<string>
+	<windows.h>
+
+1386619232 c:\users\nik\desktop\prj\build - star - kopia\graph.hpp
+	<iostream>
+	<map>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Console.hpp"
+
+1386617359 source:c:\users\nik\desktop\prj\build - star - kopia\console.cpp
+	"Console.hpp"
+
+1389562259 source:c:\users\nik\desktop\prj\build - star - kopia\engine.cpp
+	"Engine.hpp"
+
+1386619159 source:c:\users\nik\desktop\prj\build - star - kopia\event.cpp
+	"Event.hpp"
+
+1386619307 source:c:\users\nik\desktop\prj\build - star - kopia\graph.cpp
+	"Graph.hpp"
+
+1389556172 c:\users\nik\desktop\prj\build - star - kopia\object.hpp
+	<cstdarg>
+	<string>
+
+1386782208 source:c:\users\nik\desktop\prj\build - star - kopia\example.cpp
+	"Example.hpp"
+
+1386781408 c:\users\nik\desktop\prj\build - star - kopia\example.hpp
+	<iostream>
+	<string>
+	<map>
+	"Variable.hpp"
+
+1389551861 source:c:\users\nik\desktop\prj\build - star - kopia\object.cpp
+	"Object.hpp"
+
+1389451662 source:c:\users\nik\desktop\prj\build - star - kopia\variable.cpp
+	"Variable.hpp"
+
+1389537929 c:\users\nik\desktop\prj\build - star - kopia\variable.hpp
+	<iostream>
+	<sstream>
+	<iomanip>
+	<cstdio>
+	<cerrno>
+	<cstring>
+	<string>
+	<list>
+	<boost/ptr_container/ptr_set.hpp>
+	"Console.hpp"
+
+1387005150 c:\users\nik\desktop\prj\build - star - kopia\objectwall.hpp
+	<iostream>
+	<string>
+	"Object.hpp"
+	"Graph.hpp"
+
+1387005289 source:c:\users\nik\desktop\prj\build - star - kopia\objectwall.cpp
+	"ObjectWall.hpp"
+
+1387705824 c:\users\nik\desktop\prj\build - star - kopia\filer.hpp
+	<iostream>
+	<iomanip>
+	<dirent.h>
+	<cstdio>
+	<cerrno>
+	<cstring>
+	<string>
+	<fstream>
+	<list>
+	<boost/ptr_container/ptr_set.hpp>
+	<boost/algorithm/string.hpp>
+	<boost/algorithm/string/replace.hpp>
+	<boost/tuple/tuple.hpp>
+	<io.h>
+	"Console.hpp"
+
+1387705965 source:c:\users\nik\desktop\prj\build - star - kopia\filer.cpp
+	"Filer.hpp"
+
+1389559877 source:c:\users\nik\desktop\prj\build - star - kopia\objectgrass.cpp
+	"ObjectGrass.hpp"
+
+1389559855 c:\users\nik\desktop\prj\build - star - kopia\objectgrass.hpp
+	<cstdarg>
+	"Object.hpp"
+	"Graph.hpp"
+
+1389562152 source:c:\users\nik\desktop\prj\build - star - kopia\objectlist.cpp
+	"ObjectList.hpp"
+
+1389562293 c:\users\nik\desktop\prj\build - star - kopia\objectlist.hpp
+	<string>
+	<map>
+	"Object.hpp"
+	"ObjectGrass.hpp"
+	"ObjectStone.hpp"
+
+1389559809 source:c:\users\nik\desktop\prj\build - star - kopia\sectors.cpp
+	"Sectors.hpp"
+
+1389559782 c:\users\nik\desktop\prj\build - star - kopia\sectors.hpp
+	"Object.hpp"
+	"ObjectList.hpp"
+
+1389559782 c:\users\nik\desktop\prj\build - star - kopia\sector.hpp
+	"Object.hpp"
+	"ObjectList.hpp"
+
+1389563467 c:\users\nik\desktop\prj\build - star - kopia\section.hpp
+	"Object.hpp"
+	"ObjectList.hpp"
+
+1389563324 source:c:\users\nik\desktop\prj\build - star - kopia\section.cpp
+	"Section.hpp"
+
+1389562126 source:c:\users\nik\desktop\prj\build - star - kopia\objectstone.cpp
+	"ObjectStone.hpp"
+
+1389562110 c:\users\nik\desktop\prj\build - star - kopia\objectstone.hpp
+	<cstdarg>
+	"Object.hpp"
+	"Graph.hpp"
+
+1389899438 source:c:\users\nik\documents\prj\build - star - kopia\application.cpp
+	<iostream>
+	<string>
+	"Engine.hpp"
+	"Console.hpp"
+
+1389894938 c:\users\nik\documents\prj\build - star - kopia\engine.hpp
+	<iostream>
+	<stdlib.h>
+	<map>
+	<vector>
+	<windows.h>
+	<allegro5/allegro.h>
+	"Event.hpp"
+	"Graph.hpp"
+	"Console.hpp"
+	"Sector.hpp"
+	"Timer.hpp"
+
+1386619159 c:\users\nik\documents\prj\build - star - kopia\event.hpp
+	<allegro5/allegro.h>
+	"Console.hpp"
+
+1389650955 c:\users\nik\documents\prj\build - star - kopia\console.hpp
+	<string>
+	<vector>
+	<queue>
+	<windows.h>
+
+1386619232 c:\users\nik\documents\prj\build - star - kopia\graph.hpp
+	<iostream>
+	<map>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Console.hpp"
+
+1389680947 c:\users\nik\documents\prj\build - star - kopia\section.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Object.hpp"
+	"ObjectList.hpp"
+
+1390668570 c:\users\nik\documents\prj\build - star - kopia\object.hpp
+	<cstdarg>
+	<string>
+
+1389562293 c:\users\nik\documents\prj\build - star - kopia\objectlist.hpp
+	<string>
+	<map>
+	"Object.hpp"
+	"ObjectGrass.hpp"
+	"ObjectStone.hpp"
+
+1390668340 c:\users\nik\documents\prj\build - star - kopia\objectgrass.hpp
+	<cstdarg>
+	"Object.hpp"
+	"Graph.hpp"
+
+1390668484 c:\users\nik\documents\prj\build - star - kopia\objectstone.hpp
+	<cstdarg>
+	"Object.hpp"
+	"Graph.hpp"
+
+1390247306 source:c:\users\nik\documents\prj\build - star - kopia\engine.cpp
+	"Engine.hpp"
+
+1389640504 source:c:\users\nik\documents\prj\build - star - kopia\event.cpp
+	"Event.hpp"
+
+1389640625 source:c:\users\nik\documents\prj\build - star - kopia\graph.cpp
+	"Graph.hpp"
+
+1389899438 source:c:\users\nik\documents\prj\build - star - kopia\object.cpp
+	"Object.hpp"
+
+1389559877 source:c:\users\nik\documents\prj\build - star - kopia\objectgrass.cpp
+	"ObjectGrass.hpp"
+
+1389562152 source:c:\users\nik\documents\prj\build - star - kopia\objectlist.cpp
+	"ObjectList.hpp"
+
+1389562126 source:c:\users\nik\documents\prj\build - star - kopia\objectstone.cpp
+	"ObjectStone.hpp"
+
+1389650857 source:c:\users\nik\documents\prj\build - star - kopia\console.cpp
+	<string>
+	<vector>
+	<queue>
+	<windows.h>
+
+1389680981 source:c:\users\nik\documents\prj\build - star - kopia\section.cpp
+	"Section.hpp"
+
+1389889972 source:c:\users\nik\documents\prj\build - star - kopia\timer.cpp
+	"Timer.hpp"
+
+1389889912 c:\users\nik\documents\prj\build - star - kopia\timer.hpp
+	<iostream>
+	<string>
+	<list>
+	<windows.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+
+1390668050 c:\users\nik\documents\prj\build - star - kopia\sector.hpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<queue>
+	<deque>
+	"Object.hpp"
+	"ListObject.hpp"
+	"Opponent.hpp"
+	"ListOpponent.hpp"
+	"OpponentMisterKuba.hpp"
+
+1390242430 source:c:\users\nik\documents\prj\build - star - kopia\sector.cpp
+	"Sector.hpp"
+
+1390668257 c:\users\nik\documents\prj\build - star - kopia\listobject.hpp
+	<string>
+	<map>
+	"Object.hpp"
+	"ObjectGrass.hpp"
+	"ObjectStone.hpp"
+
+1390668264 source:c:\users\nik\documents\prj\build - star - kopia\listobject.cpp
+	"ListObject.hpp"
+
+1390218390 source:c:\users\nik\documents\prj\build - star - kopia\opponent.cpp
+	"Opponent.hpp"
+
+1390244376 c:\users\nik\documents\prj\build - star - kopia\opponent.hpp
+	<iostream>
+	<cstdarg>
+	<string>
+	<queue>
+	<conio.h>
+	<deque>
+
+1389904295 source:c:\users\nik\documents\prj\build - star - kopia\src\world.cpp
+	"World.hpp"
+
+1389904295 c:\users\nik\documents\prj\build - star - kopia\world.hpp
+
+1390244526 source:c:\users\nik\documents\prj\build - star - kopia\listopponent.cpp
+	"ListOpponent.hpp"
+
+1390668260 c:\users\nik\documents\prj\build - star - kopia\listopponent.hpp
+	<string>
+	<map>
+	"Opponent.hpp"
+	"OpponentMisterKuba.hpp"
+
+1390247490 c:\users\nik\documents\prj\build - star - kopia\opponentmisterkuba.hpp
+	<cstdarg>
+	"Opponent.hpp"
+	"Graph.hpp"
+	"Timer.hpp"
+
+1390263567 source:c:\users\nik\documents\prj\build - star - kopia\opponentmisterkuba.cpp
+	"OpponentMisterKuba.hpp"
+

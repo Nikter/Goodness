@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tanks" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="testy" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../build - star - Kopia" />
+				</Compiler>
+				<Linker>
+					<Add library="allegro-5.1.7-monolith-mt-debug" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="testy" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Release" />
+				<Option object_output="bin/Release" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../build - star - Kopia" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="allegro-5.1.7-monolith-mt" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Application.cpp" />
+		<Unit filename="Console.cpp" />
+		<Unit filename="Console.hpp" />
+		<Unit filename="Engine.cpp" />
+		<Unit filename="Engine.hpp" />
+		<Unit filename="Event.cpp" />
+		<Unit filename="Event.hpp" />
+		<Unit filename="EventGame.cpp" />
+		<Unit filename="EventGame.hpp" />
+		<Unit filename="Gameplay.cpp" />
+		<Unit filename="Gameplay.hpp" />
+		<Unit filename="Graph.cpp" />
+		<Unit filename="Graph.hpp" />
+		<Unit filename="ListObject.cpp" />
+		<Unit filename="ListObject.hpp" />
+		<Unit filename="ListOpponent.cpp" />
+		<Unit filename="ListOpponent.hpp" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.hpp" />
+		<Unit filename="ObjectGrass.cpp" />
+		<Unit filename="ObjectGrass.hpp" />
+		<Unit filename="ObjectStone.cpp" />
+		<Unit filename="ObjectStone.hpp" />
+		<Unit filename="Opponent.cpp" />
+		<Unit filename="Opponent.hpp" />
+		<Unit filename="OpponentMisterKuba.cpp" />
+		<Unit filename="OpponentMisterKuba.hpp" />
+		<Unit filename="Sector.cpp" />
+		<Unit filename="Sector.hpp" />
+		<Unit filename="Timer.cpp" />
+		<Unit filename="Timer.hpp" />
+		<Unit filename="World.hpp" />
+		<Unit filename="src/World.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
